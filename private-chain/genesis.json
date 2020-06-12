@@ -1,0 +1,30 @@
+{
+  "config": {
+    "chainId": 2020,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0
+   }, 
+    "mixhash" : "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "parentHash" : "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce" : "0x0000000000000042",
+    "timestamp": "0x00",
+    "difficulty": "400",
+    "gasLimit": "0xffffffff",
+    "alloc": {
+        "0xA522b056dB259D88a5D1c90c52466e129a8dFD95": {  
+           "balance": "100000000000000000000000000"  
+         },
+         "0x1eba4e6c383269602Ce0E0FFA1319273EdBB62ca":{
+	   "balance": "100000000000000000000000000" 
+         },
+        "0x408E9cd4F1733E1eB347Ad1D8125e74f9d466389": {
+ 	   "balance": "100000000000000000000000000" 
+   	 }	
+   }
+  
+}
